@@ -1,4 +1,4 @@
-# 🕹️ Flappy Bird - Windows Forms Game
+# 🕹️ Flappy Bird - Windows Forms Game July-2024
 
 This is a simple recreation of the classic **Flappy Bird** game using **C#** and **Windows Forms**.  
 The project served as a **warm-up** for getting familiar with the Windows Forms framework and experimenting with basic game development concepts.
